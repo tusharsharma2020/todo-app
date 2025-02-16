@@ -17,10 +17,10 @@ A simple to-do list web app built with HTML, CSS, and JavaScript that allows use
 - CSS
 - JavaScript
 ## Images
-![To-Do List App Screenshot](E:\VScode\JS basics\to do list\Img 1.png)
-![To-Do List App Screenshot](E:\VScode\JS basics\to do list\img 2.png)
-![To-Do List App Screenshot](E:\VScode\JS basics\to do list\img 3.png)
-![To-Do List App Screenshot](E:\VScode\JS basics\to do list\img 4.png)
+![To-Do List App Screenshot](images/Img%201.png)
+![To-Do List App Screenshot](images/img%202.png)
+![To-Do List App Screenshot](images/img%203.png)
+![To-Do List App Screenshot](images/img%204.png)
 
 ## Author
 Built by [Tushar Sharma]((https://github.com/tusharsharma2020)).
